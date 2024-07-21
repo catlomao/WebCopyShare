@@ -1,4 +1,5 @@
 # WebCopyShare
+
 A simple python program that allows you to share clipboard anything that has a browser! very fast , simple , returns a clipboard as json!
 
 # Get started !
@@ -22,5 +23,3 @@ pyton main.py
 ### do what it says!
 
 ### and boom! you read to share your clipboard!
-
-if you like what you see please give it a star
