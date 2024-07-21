@@ -23,3 +23,6 @@ pyton main.py
 ### do what it says!
 
 ### and boom! you read to share your clipboard!
+
+Please credit me if you want to use my code in your projects
+I know it open source but you can't claim it, or say it yours !!!
