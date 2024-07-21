@@ -1,6 +1,6 @@
-# WebCopyShare
 ![python](https://raw.githubusercontent.com/catlomao/WebCopyShare/main/Untitled7_20240721034841.ico)
-#
+# WebCopyShare
+
 A simple python program that allows you to share clipboard anything that has a browser! very fast , simple , returns a clipboard as json!
 
 # Get started !
