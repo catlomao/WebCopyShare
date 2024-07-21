@@ -17,13 +17,13 @@ pip install pyperclip flask
  ```
 pyton main.py
 ```
-### and boom! you read to share your clipboard!
+### and boom! you ready to share your clipboard!
 
 # Running it from an exe file
 ## just download the exe file and run it
 ### do what it says!
 
-### and boom! you read to share your clipboard!
+### and boom! you ready to share your clipboard!
 
 Please credit me if you want to use my code in your projects
 I know it open source but you can't claim it, or say it yours !!!
