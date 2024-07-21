@@ -1,5 +1,7 @@
 # WebCopyShare
 ![python](https://raw.githubusercontent.com/catlomao/WebCopyShare/main/Untitled7_20240721034841.ico)
+![wine?](https://raw.githubusercontent.com/catlomao/WebCopyShare/main/Screenshot_20240721_042821_com.winlator.jpg)
+# idk if it works with wine if you found any issus with that just report it in issues or just use the source code
 A simple python program that allows you to share clipboard anything that has a browser! very fast , simple , returns a clipboard as json!
 
 # Get started !
