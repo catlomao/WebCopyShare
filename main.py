@@ -1,9 +1,11 @@
+from easygui_qt import get_string
 from pyperclip import paste
     # a module that allows us to copy the clipboard
 from time import sleep
     # to slow down high usage (making the loop not use the maximum CPU usage)
 from flask import Flask , render_template_string , jsonify
     # importing the module that allows us to return the json output using a url
+portnum = int(get_string("Enter Port", default_response="8080"))
 app = Flask(__name__)
 @app.route("/")
 def index():
@@ -13,5 +15,5 @@ def index():
         return jsonify(paste())
             # <---- THE END OF THE LOOP ---->
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, port=portnum)
     #   Runs the program in debug mode, you can remove it if you dont want to!
