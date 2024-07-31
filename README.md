@@ -1,3 +1,7 @@
+update : 2024/07/31
+improved code and performance, added exe + gui for port
+[Download windows (exe) version](https://apps.catlomao.com/main.exe)
+#
 # WebCopyShare
 
 ![python](https://raw.githubusercontent.com/catlomao/WebCopyShare/main/Untitled7_20240721034841.ico)
