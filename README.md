@@ -16,16 +16,17 @@ A simple python program that allows you to share clipboard anything that has a b
  ## just download the main.py in the main branch and make sure pip is installed
  ### run this command (pip)
  ```
-pip install pyperclip flask
+pip install pyperclip flask easygui_qt
 ```
  ```
 pyton main.py
 ```
+### enter port
 ### and boom! you ready to share your clipboard!
 
 # Running it from an exe file
-## just download the exe file and run it
-### do what it says!
+## just download the exe file (go to the first line of this markdown and click "Download windows (exe) version" ) and run it
+## enter port
 
 ### and boom! you ready to share your clipboard!
 
